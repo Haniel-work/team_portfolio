@@ -1,4 +1,9 @@
-Overall research strategy:
-Experimental design / system design:
-Materials and techniques to be used:
-Hypothesis or expected outcomes:
+# Method & Approach
+
+## Overall research strategy:
+
+## Experimental design / system design:
+
+## Materials and techniques to be used:
+
+## Hypothesis or expected outcomes:
