@@ -28,9 +28,9 @@ This template is designed to help teams organize and present their research proj
 ## Markdown Guide!
 
 Here are some useful Markdown commands for editing your portfolio:
-1. Title : # Main Title, ## Section Title ###Subsection Title
-2. Links: [Link text](address)
+1. Title : '# Main Title', '## Section Title', '###Subsection Title'
+2. Links: '[Link text](address)'
    ex. [Google](https://google.com)
-3. Internal Links: [name](file name.md)
-4. Images: ![figure name](image.png))
-5. Bold / Italic: **Bold** *Italic*
+3. Internal Links: '[name](file name.md)'
+4. Images: '![figure name](image.png))'
+5. Bold / Italic: '**Bold**' '*Italic*'
