@@ -17,7 +17,7 @@ This template is designed to help teams organize and present their research proj
 ---
 
 ## 🚀 How to Use?
-1. Click **Use this template** or **Fork** this repository to create your own copy.  
+1. Click **Use this template** button at the top of this page to create your own copy.  
 2. Open each `.md` file and click the **✏️ Edit** button to add your content.  
 3. Replace the placeholder text with your project details, research progress, and results.  
 4. Click **Commit changes** to save your edits.  
@@ -28,9 +28,9 @@ This template is designed to help teams organize and present their research proj
 ## Markdown Guide!
 
 Here are some useful Markdown commands for editing your portfolio:
-1. Title : '# Main Title', '## Section Title', '###Subsection Title'
-2. Links: '[Link text](address)'
+1. Title : `# Main Title`, `## Section Title`, `###Subsection Title`
+2. Links: `[Link text](address)`
    ex. [Google](https://google.com)
-3. Internal Links: '[name](file name.md)'
-4. Images: '![figure name](image.png))'
-5. Bold / Italic: '**Bold**' '*Italic*'
+3. Internal Links: `[name](file name.md)`
+4. Images: `![figure name](image.png))`
+5. Bold / Italic: `**Bold**` `*Italic*`
