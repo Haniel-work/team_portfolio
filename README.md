@@ -1,7 +1,7 @@
 # team_portfolio
 
 ## Table of contents
-1. [Introduction / Team Overview](intro_overview.md)
+1. [Introduction / Team Overview](Intro_overview.md)
 2. [Background & Problem Definition](Background_Problem_definition.md)
 3. [Research & Literature Review](Research_Literature_review.md)
 4. [Method / Approach](Method_Approach.md)
