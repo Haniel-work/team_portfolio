@@ -1,6 +1,11 @@
 # Introduction / Team Overview
-Team name: \n
-Member & Roles: \n
-Project title: \n
-Brief overview: \n
-Research Objectives & Goals: \n
+
+## Team name: 
+
+## Member & Roles: 
+
+## Project title: 
+
+## Brief overview: 
+
+## Research Objectives & Goals: 
