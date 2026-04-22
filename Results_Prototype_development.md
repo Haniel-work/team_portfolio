@@ -1,3 +1,7 @@
-Experimental results (data, graphs):
-Prototype description (#if applicable):
-Data analysis and interpretation:
+# Results & Prototype development
+
+## Experimental results (data, graphs):
+
+## Prototype description (#if applicable):
+
+## Data analysis and interpretation:
