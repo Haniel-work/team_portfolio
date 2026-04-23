@@ -17,7 +17,7 @@ This template is designed to help teams organize and present their research proj
 ---
 
 ## 🚀 How to Use?
-1. Click **Use this template** button at the top of this page to create your own copy.  
+1. Click **team_portfolio** button at the top of this page to create your own copy.  
 2. Open each `.md` file and click the **✏️ Edit** button to add your content.  
 3. Replace the placeholder text with your project details, research progress, and results.  
 4. Click **Commit changes** to save your edits.  
